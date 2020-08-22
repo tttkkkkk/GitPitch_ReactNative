@@ -8,11 +8,12 @@
 ### JSX
   - render関数が返す。画面描画（見た目）    |   
   HTMLっぽいタグを使う
-?code=sample.js
+```js
   <View>
   <Text>
   <TouchableOpacity>
   <ScrollView>
+```
 ---
 ### Props
   - 不変なもの。性質。　（例：性別。画像）    |   
