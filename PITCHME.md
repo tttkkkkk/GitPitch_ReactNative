@@ -6,8 +6,8 @@
   - state    |   
 ---
 ### JSX
-  - render関数が返す。画面描画（見た目）    |   
-  HTMLっぽいタグを使う
+render関数が返す。画面描画（見た目）
+HTMLっぽいタグを使う
 ```
   <View>
   <Text>
