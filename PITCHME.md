@@ -5,6 +5,18 @@
   - props    |   
   - state    |   
 ---
+書き方は、  
+___
+@ snap\[ポジション\]<br>@size[0.7em](（内容）)<br>@ snapend  
+___
+です。  
+　  
+ポジションは、以下が設定できます。
+```
+east, west, south, north
+midpoint
+```
+---
 ### JSX
   - render関数が返す。画面描画（見た目）|
 HTMLっぽいタグを使う
